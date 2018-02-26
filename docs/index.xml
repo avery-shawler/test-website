@@ -27,7 +27,25 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/test-website/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>My name is Avery Shawler and I am new to GitHub and R and everything is confusing.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/test-website/cv/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/test-website/cv/</guid>
+      <description>To be added&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/test-website/research/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/test-website/research/</guid>
+      <description>I am interested in landscape-scale ecology, human-wildlife conflict, predator-prey interactions, and animal movement.</description>
     </item>
     
     <item>
